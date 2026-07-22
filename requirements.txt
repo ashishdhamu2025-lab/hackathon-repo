@@ -40,7 +40,7 @@ google-cloud-speech==2.39.0
 google-cloud-storage==3.9.0
 google-cloud-trace==1.19.0
 google-crc32c==1.8.0
-google-genai==1.47.0
+google-genai
 google-resumable-media==2.8.2
 googleapis-common-protos==1.75.0
 graphviz==0.21
