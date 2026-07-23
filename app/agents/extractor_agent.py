@@ -16,5 +16,5 @@ Look at the attached document artifact and extract every relevant field
 Be exhaustive but do not invent values that are not present in the document.
 """,
     output_schema=ExtractionResult,
-    output_key="extraction",
+    output_key="extraction"
 )
